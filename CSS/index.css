@@ -1,0 +1,30 @@
+body{
+text-align: center;
+background-image: url(IMG/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+font-family: breakingbad;
+font-size: 25px;
+color: aliceblue;
+
+}
+
+@font-face{
+
+    font-family: "breakingbad";
+    src: url(fuente/Breaking_bad.ttf);
+}
+
+
+#LOGO{
+
+    width: 200px;   
+    height: 200px;
+}
+
+#posterresolution{
+
+width: 700px;
+height: 300px;
+
+}
