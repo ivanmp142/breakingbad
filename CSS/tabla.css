@@ -7,11 +7,11 @@ color: black;
 
 table{
 
-    background-color: #0e2700;
+    background-color: #212b1b;
     width: 1300px;
     height: 300px;
     text-align: center;
-    border: 1px solid #0c3e11;   
+    border: 1px solid  #212b1b;  
     padding: 10px; 
     
    
@@ -21,14 +21,19 @@ h5{
 
      
     font-weight: 750;
-    font-size: 30px; 
+    font-size: 40px; 
     margin-top: 0px; 
     margin-bottom: 0px; 
-    color: black;
+    color: #212b1b;
 
     
 }
 
+#imagenHA{
+
+   width: 100%;
+   
+}
 
 .color1{
     background-color: #b8dc19 ;
@@ -36,7 +41,7 @@ h5{
 
 .color2{
 
-    background-color: violet;
+    background-color: rgb(172, 125, 211);
 }
 
 .color3{
@@ -81,14 +86,14 @@ background-color: #c7e538;
 
 td{
 
-    border: solid black;
+    border: 3px solid  #212b1b;
     width: 100px;
     height: 100px;
 }
 
 tr{
 
-    border: solid black;
+    border: 3px solid  #212b1b;
     width: 100px;
     height: 100px;
 }
